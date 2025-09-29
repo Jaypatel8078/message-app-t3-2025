@@ -1,0 +1,24 @@
+C:\Users\japa404\Desktop\Desktop Apllication\Listbox connect with other listbox\Listbox connect with other listbox\bin\Debug\net8.0-windows\Listbox connect with other listbox.exe
+C:\Users\japa404\Desktop\Desktop Apllication\Listbox connect with other listbox\Listbox connect with other listbox\bin\Debug\net8.0-windows\Listbox connect with other listbox.deps.json
+C:\Users\japa404\Desktop\Desktop Apllication\Listbox connect with other listbox\Listbox connect with other listbox\bin\Debug\net8.0-windows\Listbox connect with other listbox.runtimeconfig.json
+C:\Users\japa404\Desktop\Desktop Apllication\Listbox connect with other listbox\Listbox connect with other listbox\bin\Debug\net8.0-windows\Listbox connect with other listbox.dll
+C:\Users\japa404\Desktop\Desktop Apllication\Listbox connect with other listbox\Listbox connect with other listbox\bin\Debug\net8.0-windows\Listbox connect with other listbox.pdb
+C:\Users\japa404\Desktop\Desktop Apllication\Listbox connect with other listbox\Listbox connect with other listbox\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\japa404\Desktop\Desktop Apllication\Listbox connect with other listbox\Listbox connect with other listbox\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\japa404\Desktop\Desktop Apllication\Listbox connect with other listbox\Listbox connect with other listbox\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\japa404\Desktop\Desktop Apllication\Listbox connect with other listbox\Listbox connect with other listbox\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\japa404\Desktop\Desktop Apllication\Listbox connect with other listbox\Listbox connect with other listbox\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\japa404\Desktop\Desktop Apllication\Listbox connect with other listbox\Listbox connect with other listbox\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\japa404\Desktop\Desktop Apllication\Listbox connect with other listbox\Listbox connect with other listbox\obj\Debug\net8.0-windows\Listbox connect with other listbox.csproj.AssemblyReference.cache
+C:\Users\japa404\Desktop\Desktop Apllication\Listbox connect with other listbox\Listbox connect with other listbox\obj\Debug\net8.0-windows\Listbox_connect_with_other_listbox.Form1.resources
+C:\Users\japa404\Desktop\Desktop Apllication\Listbox connect with other listbox\Listbox connect with other listbox\obj\Debug\net8.0-windows\Listbox connect with other listbox.csproj.GenerateResource.cache
+C:\Users\japa404\Desktop\Desktop Apllication\Listbox connect with other listbox\Listbox connect with other listbox\obj\Debug\net8.0-windows\Listbox connect with other listbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\japa404\Desktop\Desktop Apllication\Listbox connect with other listbox\Listbox connect with other listbox\obj\Debug\net8.0-windows\Listbox connect with other listbox.AssemblyInfoInputs.cache
+C:\Users\japa404\Desktop\Desktop Apllication\Listbox connect with other listbox\Listbox connect with other listbox\obj\Debug\net8.0-windows\Listbox connect with other listbox.AssemblyInfo.cs
+C:\Users\japa404\Desktop\Desktop Apllication\Listbox connect with other listbox\Listbox connect with other listbox\obj\Debug\net8.0-windows\Listbox connect with other listbox.csproj.CoreCompileInputs.cache
+C:\Users\japa404\Desktop\Desktop Apllication\Listbox connect with other listbox\Listbox connect with other listbox\obj\Debug\net8.0-windows\Listbox .664A56EE.Up2Date
+C:\Users\japa404\Desktop\Desktop Apllication\Listbox connect with other listbox\Listbox connect with other listbox\obj\Debug\net8.0-windows\Listbox connect with other listbox.dll
+C:\Users\japa404\Desktop\Desktop Apllication\Listbox connect with other listbox\Listbox connect with other listbox\obj\Debug\net8.0-windows\refint\Listbox connect with other listbox.dll
+C:\Users\japa404\Desktop\Desktop Apllication\Listbox connect with other listbox\Listbox connect with other listbox\obj\Debug\net8.0-windows\Listbox connect with other listbox.pdb
+C:\Users\japa404\Desktop\Desktop Apllication\Listbox connect with other listbox\Listbox connect with other listbox\obj\Debug\net8.0-windows\Listbox connect with other listbox.genruntimeconfig.cache
+C:\Users\japa404\Desktop\Desktop Apllication\Listbox connect with other listbox\Listbox connect with other listbox\obj\Debug\net8.0-windows\ref\Listbox connect with other listbox.dll

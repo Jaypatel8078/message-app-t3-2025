@@ -1,0 +1,28 @@
+C:\Users\japa404\Desktop\Desktop Apllication\Mid-term Exam\Mid-term Exam\bin\Debug\net8.0-windows\Mid-term Exam.exe
+C:\Users\japa404\Desktop\Desktop Apllication\Mid-term Exam\Mid-term Exam\bin\Debug\net8.0-windows\Mid-term Exam.deps.json
+C:\Users\japa404\Desktop\Desktop Apllication\Mid-term Exam\Mid-term Exam\bin\Debug\net8.0-windows\Mid-term Exam.runtimeconfig.json
+C:\Users\japa404\Desktop\Desktop Apllication\Mid-term Exam\Mid-term Exam\bin\Debug\net8.0-windows\Mid-term Exam.dll
+C:\Users\japa404\Desktop\Desktop Apllication\Mid-term Exam\Mid-term Exam\bin\Debug\net8.0-windows\Mid-term Exam.pdb
+C:\Users\japa404\Desktop\Desktop Apllication\Mid-term Exam\Mid-term Exam\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\japa404\Desktop\Desktop Apllication\Mid-term Exam\Mid-term Exam\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\japa404\Desktop\Desktop Apllication\Mid-term Exam\Mid-term Exam\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\japa404\Desktop\Desktop Apllication\Mid-term Exam\Mid-term Exam\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\japa404\Desktop\Desktop Apllication\Mid-term Exam\Mid-term Exam\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\japa404\Desktop\Desktop Apllication\Mid-term Exam\Mid-term Exam\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\japa404\Desktop\Desktop Apllication\Mid-term Exam\Mid-term Exam\obj\Debug\net8.0-windows\Mid-term Exam.csproj.AssemblyReference.cache
+C:\Users\japa404\Desktop\Desktop Apllication\Mid-term Exam\Mid-term Exam\obj\Debug\net8.0-windows\Mid_term_Exam.Books_per_user.resources
+C:\Users\japa404\Desktop\Desktop Apllication\Mid-term Exam\Mid-term Exam\obj\Debug\net8.0-windows\Mid_term_Exam.Form1.resources
+C:\Users\japa404\Desktop\Desktop Apllication\Mid-term Exam\Mid-term Exam\obj\Debug\net8.0-windows\Mid_term_Exam.Member_Admin.resources
+C:\Users\japa404\Desktop\Desktop Apllication\Mid-term Exam\Mid-term Exam\obj\Debug\net8.0-windows\Mid_term_Exam.Properties.Resources.resources
+C:\Users\japa404\Desktop\Desktop Apllication\Mid-term Exam\Mid-term Exam\obj\Debug\net8.0-windows\Mid-term Exam.csproj.GenerateResource.cache
+C:\Users\japa404\Desktop\Desktop Apllication\Mid-term Exam\Mid-term Exam\obj\Debug\net8.0-windows\Mid-term Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\japa404\Desktop\Desktop Apllication\Mid-term Exam\Mid-term Exam\obj\Debug\net8.0-windows\Mid-term Exam.AssemblyInfoInputs.cache
+C:\Users\japa404\Desktop\Desktop Apllication\Mid-term Exam\Mid-term Exam\obj\Debug\net8.0-windows\Mid-term Exam.AssemblyInfo.cs
+C:\Users\japa404\Desktop\Desktop Apllication\Mid-term Exam\Mid-term Exam\obj\Debug\net8.0-windows\Mid-term Exam.csproj.CoreCompileInputs.cache
+C:\Users\japa404\Desktop\Desktop Apllication\Mid-term Exam\Mid-term Exam\obj\Debug\net8.0-windows\Mid-term.6ED1BB75.Up2Date
+C:\Users\japa404\Desktop\Desktop Apllication\Mid-term Exam\Mid-term Exam\obj\Debug\net8.0-windows\Mid-term Exam.dll
+C:\Users\japa404\Desktop\Desktop Apllication\Mid-term Exam\Mid-term Exam\obj\Debug\net8.0-windows\refint\Mid-term Exam.dll
+C:\Users\japa404\Desktop\Desktop Apllication\Mid-term Exam\Mid-term Exam\obj\Debug\net8.0-windows\Mid-term Exam.pdb
+C:\Users\japa404\Desktop\Desktop Apllication\Mid-term Exam\Mid-term Exam\obj\Debug\net8.0-windows\Mid-term Exam.genruntimeconfig.cache
+C:\Users\japa404\Desktop\Desktop Apllication\Mid-term Exam\Mid-term Exam\obj\Debug\net8.0-windows\ref\Mid-term Exam.dll
+C:\Users\japa404\Desktop\Desktop Apllication\Mid-term Exam\Mid-term Exam\obj\Debug\net8.0-windows\Mid_term_Exam.Member_admin1.resources

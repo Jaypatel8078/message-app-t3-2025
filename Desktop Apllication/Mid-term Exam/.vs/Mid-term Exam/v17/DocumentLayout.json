@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\japa404\\Desktop\\Desktop Apllication\\Mid-term Exam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A025C755-7BFC-47CA-BBC3-C1C757CC2463}|Mid-term Exam\\Mid-term Exam.csproj|C:\\Users\\japa404\\Desktop\\Desktop Apllication\\Mid-term Exam\\mid-term exam\\member_admin1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A025C755-7BFC-47CA-BBC3-C1C757CC2463}|Mid-term Exam\\Mid-term Exam.csproj|solutionrelative:mid-term exam\\member_admin1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A025C755-7BFC-47CA-BBC3-C1C757CC2463}|Mid-term Exam\\Mid-term Exam.csproj|c:\\users\\japa404\\desktop\\desktop apllication\\mid-term exam\\mid-term exam\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A025C755-7BFC-47CA-BBC3-C1C757CC2463}|Mid-term Exam\\Mid-term Exam.csproj|solutionrelative:mid-term exam\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A025C755-7BFC-47CA-BBC3-C1C757CC2463}|Mid-term Exam\\Mid-term Exam.csproj|c:\\users\\japa404\\desktop\\desktop apllication\\mid-term exam\\mid-term exam\\books per user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A025C755-7BFC-47CA-BBC3-C1C757CC2463}|Mid-term Exam\\Mid-term Exam.csproj|solutionrelative:mid-term exam\\books per user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A025C755-7BFC-47CA-BBC3-C1C757CC2463}|Mid-term Exam\\Mid-term Exam.csproj|c:\\users\\japa404\\desktop\\desktop apllication\\mid-term exam\\mid-term exam\\books per user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A025C755-7BFC-47CA-BBC3-C1C757CC2463}|Mid-term Exam\\Mid-term Exam.csproj|solutionrelative:mid-term exam\\books per user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A025C755-7BFC-47CA-BBC3-C1C757CC2463}|Mid-term Exam\\Mid-term Exam.csproj|c:\\users\\japa404\\desktop\\desktop apllication\\mid-term exam\\mid-term exam\\member_admin1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A025C755-7BFC-47CA-BBC3-C1C757CC2463}|Mid-term Exam\\Mid-term Exam.csproj|solutionrelative:mid-term exam\\member_admin1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A025C755-7BFC-47CA-BBC3-C1C757CC2463}|Mid-term Exam\\Mid-term Exam.csproj|C:\\Users\\japa404\\Desktop\\Desktop Apllication\\Mid-term Exam\\mid-term exam\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A025C755-7BFC-47CA-BBC3-C1C757CC2463}|Mid-term Exam\\Mid-term Exam.csproj|solutionrelative:mid-term exam\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\japa404\\Desktop\\Desktop Apllication\\Mid-term Exam\\Mid-term Exam\\Form1.cs",
+              "RelativeDocumentMoniker": "Mid-term Exam\\Form1.cs",
+              "ToolTip": "C:\\Users\\japa404\\Desktop\\Desktop Apllication\\Mid-term Exam\\Mid-term Exam\\Form1.cs",
+              "RelativeToolTip": "Mid-term Exam\\Form1.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAawBAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T23:46:47.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Member_admin1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\japa404\\Desktop\\Desktop Apllication\\Mid-term Exam\\Mid-term Exam\\Member_admin1.cs",
+              "RelativeDocumentMoniker": "Mid-term Exam\\Member_admin1.cs",
+              "ToolTip": "C:\\Users\\japa404\\Desktop\\Desktop Apllication\\Mid-term Exam\\Mid-term Exam\\Member_admin1.cs [Design]",
+              "RelativeToolTip": "Mid-term Exam\\Member_admin1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T01:45:24.287Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Member_admin1.cs",
+              "DocumentMoniker": "C:\\Users\\japa404\\Desktop\\Desktop Apllication\\Mid-term Exam\\Mid-term Exam\\Member_admin1.cs",
+              "RelativeDocumentMoniker": "Mid-term Exam\\Member_admin1.cs",
+              "ToolTip": "C:\\Users\\japa404\\Desktop\\Desktop Apllication\\Mid-term Exam\\Mid-term Exam\\Member_admin1.cs",
+              "RelativeToolTip": "Mid-term Exam\\Member_admin1.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAYwE0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T01:49:18.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Books per user.cs",
+              "DocumentMoniker": "C:\\Users\\japa404\\Desktop\\Desktop Apllication\\Mid-term Exam\\Mid-term Exam\\Books per user.cs",
+              "RelativeDocumentMoniker": "Mid-term Exam\\Books per user.cs",
+              "ToolTip": "C:\\Users\\japa404\\Desktop\\Desktop Apllication\\Mid-term Exam\\Mid-term Exam\\Books per user.cs",
+              "RelativeToolTip": "Mid-term Exam\\Books per user.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAwBwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T23:24:02.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Books per user.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\japa404\\Desktop\\Desktop Apllication\\Mid-term Exam\\Mid-term Exam\\Books per user.cs",
+              "RelativeDocumentMoniker": "Mid-term Exam\\Books per user.cs",
+              "ToolTip": "C:\\Users\\japa404\\Desktop\\Desktop Apllication\\Mid-term Exam\\Mid-term Exam\\Books per user.cs [Design]",
+              "RelativeToolTip": "Mid-term Exam\\Books per user.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T23:21:55.839Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\japa404\\Desktop\\Desktop Apllication\\Mid-term Exam\\Mid-term Exam\\Form1.cs",
+              "RelativeDocumentMoniker": "Mid-term Exam\\Form1.cs",
+              "ToolTip": "C:\\Users\\japa404\\Desktop\\Desktop Apllication\\Mid-term Exam\\Mid-term Exam\\Form1.cs [Design]",
+              "RelativeToolTip": "Mid-term Exam\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T23:05:59.322Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

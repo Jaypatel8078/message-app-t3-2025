@@ -1,0 +1,24 @@
+C:\Users\japa404\Desktop\Desktop Apllication\Car Search\Car Search\bin\Debug\net8.0-windows\Car Search.exe
+C:\Users\japa404\Desktop\Desktop Apllication\Car Search\Car Search\bin\Debug\net8.0-windows\Car Search.deps.json
+C:\Users\japa404\Desktop\Desktop Apllication\Car Search\Car Search\bin\Debug\net8.0-windows\Car Search.runtimeconfig.json
+C:\Users\japa404\Desktop\Desktop Apllication\Car Search\Car Search\bin\Debug\net8.0-windows\Car Search.dll
+C:\Users\japa404\Desktop\Desktop Apllication\Car Search\Car Search\bin\Debug\net8.0-windows\Car Search.pdb
+C:\Users\japa404\Desktop\Desktop Apllication\Car Search\Car Search\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\japa404\Desktop\Desktop Apllication\Car Search\Car Search\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\japa404\Desktop\Desktop Apllication\Car Search\Car Search\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\japa404\Desktop\Desktop Apllication\Car Search\Car Search\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\japa404\Desktop\Desktop Apllication\Car Search\Car Search\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\japa404\Desktop\Desktop Apllication\Car Search\Car Search\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\japa404\Desktop\Desktop Apllication\Car Search\Car Search\obj\Debug\net8.0-windows\Car Search.csproj.AssemblyReference.cache
+C:\Users\japa404\Desktop\Desktop Apllication\Car Search\Car Search\obj\Debug\net8.0-windows\Car_Search.Form1.resources
+C:\Users\japa404\Desktop\Desktop Apllication\Car Search\Car Search\obj\Debug\net8.0-windows\Car Search.csproj.GenerateResource.cache
+C:\Users\japa404\Desktop\Desktop Apllication\Car Search\Car Search\obj\Debug\net8.0-windows\Car Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\japa404\Desktop\Desktop Apllication\Car Search\Car Search\obj\Debug\net8.0-windows\Car Search.AssemblyInfoInputs.cache
+C:\Users\japa404\Desktop\Desktop Apllication\Car Search\Car Search\obj\Debug\net8.0-windows\Car Search.AssemblyInfo.cs
+C:\Users\japa404\Desktop\Desktop Apllication\Car Search\Car Search\obj\Debug\net8.0-windows\Car Search.csproj.CoreCompileInputs.cache
+C:\Users\japa404\Desktop\Desktop Apllication\Car Search\Car Search\obj\Debug\net8.0-windows\Car Search.csproj.Up2Date
+C:\Users\japa404\Desktop\Desktop Apllication\Car Search\Car Search\obj\Debug\net8.0-windows\Car Search.dll
+C:\Users\japa404\Desktop\Desktop Apllication\Car Search\Car Search\obj\Debug\net8.0-windows\refint\Car Search.dll
+C:\Users\japa404\Desktop\Desktop Apllication\Car Search\Car Search\obj\Debug\net8.0-windows\Car Search.pdb
+C:\Users\japa404\Desktop\Desktop Apllication\Car Search\Car Search\obj\Debug\net8.0-windows\Car Search.genruntimeconfig.cache
+C:\Users\japa404\Desktop\Desktop Apllication\Car Search\Car Search\obj\Debug\net8.0-windows\ref\Car Search.dll

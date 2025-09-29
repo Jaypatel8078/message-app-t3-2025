@@ -1,0 +1,16 @@
+C:\Users\japa404\Desktop\Desktop Apllication\currencies exchange\currencies exchange\obj\Debug\net8.0-windows\currencies_exchange.Form1.resources
+C:\Users\japa404\Desktop\Desktop Apllication\currencies exchange\currencies exchange\obj\Debug\net8.0-windows\currencies exchange.csproj.GenerateResource.cache
+C:\Users\japa404\Desktop\Desktop Apllication\currencies exchange\currencies exchange\obj\Debug\net8.0-windows\currencies exchange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\japa404\Desktop\Desktop Apllication\currencies exchange\currencies exchange\obj\Debug\net8.0-windows\currencies exchange.AssemblyInfoInputs.cache
+C:\Users\japa404\Desktop\Desktop Apllication\currencies exchange\currencies exchange\obj\Debug\net8.0-windows\currencies exchange.AssemblyInfo.cs
+C:\Users\japa404\Desktop\Desktop Apllication\currencies exchange\currencies exchange\obj\Debug\net8.0-windows\currencies exchange.csproj.CoreCompileInputs.cache
+C:\Users\japa404\Desktop\Desktop Apllication\currencies exchange\currencies exchange\bin\Debug\net8.0-windows\currencies exchange.exe
+C:\Users\japa404\Desktop\Desktop Apllication\currencies exchange\currencies exchange\bin\Debug\net8.0-windows\currencies exchange.deps.json
+C:\Users\japa404\Desktop\Desktop Apllication\currencies exchange\currencies exchange\bin\Debug\net8.0-windows\currencies exchange.runtimeconfig.json
+C:\Users\japa404\Desktop\Desktop Apllication\currencies exchange\currencies exchange\bin\Debug\net8.0-windows\currencies exchange.dll
+C:\Users\japa404\Desktop\Desktop Apllication\currencies exchange\currencies exchange\bin\Debug\net8.0-windows\currencies exchange.pdb
+C:\Users\japa404\Desktop\Desktop Apllication\currencies exchange\currencies exchange\obj\Debug\net8.0-windows\currencies exchange.dll
+C:\Users\japa404\Desktop\Desktop Apllication\currencies exchange\currencies exchange\obj\Debug\net8.0-windows\refint\currencies exchange.dll
+C:\Users\japa404\Desktop\Desktop Apllication\currencies exchange\currencies exchange\obj\Debug\net8.0-windows\currencies exchange.pdb
+C:\Users\japa404\Desktop\Desktop Apllication\currencies exchange\currencies exchange\obj\Debug\net8.0-windows\currencies exchange.genruntimeconfig.cache
+C:\Users\japa404\Desktop\Desktop Apllication\currencies exchange\currencies exchange\obj\Debug\net8.0-windows\ref\currencies exchange.dll

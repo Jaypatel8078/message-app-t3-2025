@@ -1,0 +1,16 @@
+C:\Users\japa404\Desktop\Desktop Apllication\basicproject\basicproject\bin\Debug\net8.0-windows\basicproject.exe
+C:\Users\japa404\Desktop\Desktop Apllication\basicproject\basicproject\bin\Debug\net8.0-windows\basicproject.deps.json
+C:\Users\japa404\Desktop\Desktop Apllication\basicproject\basicproject\bin\Debug\net8.0-windows\basicproject.runtimeconfig.json
+C:\Users\japa404\Desktop\Desktop Apllication\basicproject\basicproject\bin\Debug\net8.0-windows\basicproject.dll
+C:\Users\japa404\Desktop\Desktop Apllication\basicproject\basicproject\bin\Debug\net8.0-windows\basicproject.pdb
+C:\Users\japa404\Desktop\Desktop Apllication\basicproject\basicproject\obj\Debug\net8.0-windows\basicproject.Form1.resources
+C:\Users\japa404\Desktop\Desktop Apllication\basicproject\basicproject\obj\Debug\net8.0-windows\basicproject.csproj.GenerateResource.cache
+C:\Users\japa404\Desktop\Desktop Apllication\basicproject\basicproject\obj\Debug\net8.0-windows\basicproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\japa404\Desktop\Desktop Apllication\basicproject\basicproject\obj\Debug\net8.0-windows\basicproject.AssemblyInfoInputs.cache
+C:\Users\japa404\Desktop\Desktop Apllication\basicproject\basicproject\obj\Debug\net8.0-windows\basicproject.AssemblyInfo.cs
+C:\Users\japa404\Desktop\Desktop Apllication\basicproject\basicproject\obj\Debug\net8.0-windows\basicproject.csproj.CoreCompileInputs.cache
+C:\Users\japa404\Desktop\Desktop Apllication\basicproject\basicproject\obj\Debug\net8.0-windows\basicproject.dll
+C:\Users\japa404\Desktop\Desktop Apllication\basicproject\basicproject\obj\Debug\net8.0-windows\refint\basicproject.dll
+C:\Users\japa404\Desktop\Desktop Apllication\basicproject\basicproject\obj\Debug\net8.0-windows\basicproject.pdb
+C:\Users\japa404\Desktop\Desktop Apllication\basicproject\basicproject\obj\Debug\net8.0-windows\basicproject.genruntimeconfig.cache
+C:\Users\japa404\Desktop\Desktop Apllication\basicproject\basicproject\obj\Debug\net8.0-windows\ref\basicproject.dll

@@ -1,0 +1,25 @@
+C:\Users\japa404\Desktop\Desktop Apllication\AIS Data\AIS Data\obj\Debug\net8.0-windows\AIS Data.csproj.AssemblyReference.cache
+C:\Users\japa404\Desktop\Desktop Apllication\AIS Data\AIS Data\obj\Debug\net8.0-windows\AIS_Data.Form1.resources
+C:\Users\japa404\Desktop\Desktop Apllication\AIS Data\AIS Data\obj\Debug\net8.0-windows\AIS_Data.Form2.resources
+C:\Users\japa404\Desktop\Desktop Apllication\AIS Data\AIS Data\obj\Debug\net8.0-windows\AIS Data.csproj.GenerateResource.cache
+C:\Users\japa404\Desktop\Desktop Apllication\AIS Data\AIS Data\obj\Debug\net8.0-windows\AIS Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\japa404\Desktop\Desktop Apllication\AIS Data\AIS Data\obj\Debug\net8.0-windows\AIS Data.AssemblyInfoInputs.cache
+C:\Users\japa404\Desktop\Desktop Apllication\AIS Data\AIS Data\obj\Debug\net8.0-windows\AIS Data.AssemblyInfo.cs
+C:\Users\japa404\Desktop\Desktop Apllication\AIS Data\AIS Data\obj\Debug\net8.0-windows\AIS Data.csproj.CoreCompileInputs.cache
+C:\Users\japa404\Desktop\Desktop Apllication\AIS Data\AIS Data\bin\Debug\net8.0-windows\AIS Data.exe
+C:\Users\japa404\Desktop\Desktop Apllication\AIS Data\AIS Data\bin\Debug\net8.0-windows\AIS Data.deps.json
+C:\Users\japa404\Desktop\Desktop Apllication\AIS Data\AIS Data\bin\Debug\net8.0-windows\AIS Data.runtimeconfig.json
+C:\Users\japa404\Desktop\Desktop Apllication\AIS Data\AIS Data\bin\Debug\net8.0-windows\AIS Data.dll
+C:\Users\japa404\Desktop\Desktop Apllication\AIS Data\AIS Data\bin\Debug\net8.0-windows\AIS Data.pdb
+C:\Users\japa404\Desktop\Desktop Apllication\AIS Data\AIS Data\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\japa404\Desktop\Desktop Apllication\AIS Data\AIS Data\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\japa404\Desktop\Desktop Apllication\AIS Data\AIS Data\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\japa404\Desktop\Desktop Apllication\AIS Data\AIS Data\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\japa404\Desktop\Desktop Apllication\AIS Data\AIS Data\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\japa404\Desktop\Desktop Apllication\AIS Data\AIS Data\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\japa404\Desktop\Desktop Apllication\AIS Data\AIS Data\obj\Debug\net8.0-windows\AIS Data.csproj.Up2Date
+C:\Users\japa404\Desktop\Desktop Apllication\AIS Data\AIS Data\obj\Debug\net8.0-windows\AIS Data.dll
+C:\Users\japa404\Desktop\Desktop Apllication\AIS Data\AIS Data\obj\Debug\net8.0-windows\refint\AIS Data.dll
+C:\Users\japa404\Desktop\Desktop Apllication\AIS Data\AIS Data\obj\Debug\net8.0-windows\AIS Data.pdb
+C:\Users\japa404\Desktop\Desktop Apllication\AIS Data\AIS Data\obj\Debug\net8.0-windows\AIS Data.genruntimeconfig.cache
+C:\Users\japa404\Desktop\Desktop Apllication\AIS Data\AIS Data\obj\Debug\net8.0-windows\ref\AIS Data.dll

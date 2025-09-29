@@ -1,0 +1,27 @@
+C:\Users\japa404\Desktop\Desktop Apllication\Create Loginform again\Create Loginform again\obj\Debug\net8.0-windows\Create Loginform again.csproj.AssemblyReference.cache
+C:\Users\japa404\Desktop\Desktop Apllication\Create Loginform again\Create Loginform again\obj\Debug\net8.0-windows\Create_Loginform_again.Form1.resources
+C:\Users\japa404\Desktop\Desktop Apllication\Create Loginform again\Create Loginform again\obj\Debug\net8.0-windows\Create_Loginform_again.Mainform.resources
+C:\Users\japa404\Desktop\Desktop Apllication\Create Loginform again\Create Loginform again\obj\Debug\net8.0-windows\Create Loginform again.csproj.GenerateResource.cache
+C:\Users\japa404\Desktop\Desktop Apllication\Create Loginform again\Create Loginform again\obj\Debug\net8.0-windows\Create Loginform again.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\japa404\Desktop\Desktop Apllication\Create Loginform again\Create Loginform again\obj\Debug\net8.0-windows\Create Loginform again.AssemblyInfoInputs.cache
+C:\Users\japa404\Desktop\Desktop Apllication\Create Loginform again\Create Loginform again\obj\Debug\net8.0-windows\Create Loginform again.AssemblyInfo.cs
+C:\Users\japa404\Desktop\Desktop Apllication\Create Loginform again\Create Loginform again\obj\Debug\net8.0-windows\Create Loginform again.csproj.CoreCompileInputs.cache
+C:\Users\japa404\Desktop\Desktop Apllication\Create Loginform again\Create Loginform again\bin\Debug\net8.0-windows\Create Loginform again.exe
+C:\Users\japa404\Desktop\Desktop Apllication\Create Loginform again\Create Loginform again\bin\Debug\net8.0-windows\Create Loginform again.deps.json
+C:\Users\japa404\Desktop\Desktop Apllication\Create Loginform again\Create Loginform again\bin\Debug\net8.0-windows\Create Loginform again.runtimeconfig.json
+C:\Users\japa404\Desktop\Desktop Apllication\Create Loginform again\Create Loginform again\bin\Debug\net8.0-windows\Create Loginform again.dll
+C:\Users\japa404\Desktop\Desktop Apllication\Create Loginform again\Create Loginform again\bin\Debug\net8.0-windows\Create Loginform again.pdb
+C:\Users\japa404\Desktop\Desktop Apllication\Create Loginform again\Create Loginform again\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\japa404\Desktop\Desktop Apllication\Create Loginform again\Create Loginform again\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\japa404\Desktop\Desktop Apllication\Create Loginform again\Create Loginform again\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\japa404\Desktop\Desktop Apllication\Create Loginform again\Create Loginform again\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\japa404\Desktop\Desktop Apllication\Create Loginform again\Create Loginform again\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\japa404\Desktop\Desktop Apllication\Create Loginform again\Create Loginform again\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\japa404\Desktop\Desktop Apllication\Create Loginform again\Create Loginform again\obj\Debug\net8.0-windows\Create_Loginform_again.Form2.resources
+C:\Users\japa404\Desktop\Desktop Apllication\Create Loginform again\Create Loginform again\obj\Debug\net8.0-windows\Create L.0B69833C.Up2Date
+C:\Users\japa404\Desktop\Desktop Apllication\Create Loginform again\Create Loginform again\obj\Debug\net8.0-windows\Create Loginform again.dll
+C:\Users\japa404\Desktop\Desktop Apllication\Create Loginform again\Create Loginform again\obj\Debug\net8.0-windows\refint\Create Loginform again.dll
+C:\Users\japa404\Desktop\Desktop Apllication\Create Loginform again\Create Loginform again\obj\Debug\net8.0-windows\Create Loginform again.pdb
+C:\Users\japa404\Desktop\Desktop Apllication\Create Loginform again\Create Loginform again\obj\Debug\net8.0-windows\Create Loginform again.genruntimeconfig.cache
+C:\Users\japa404\Desktop\Desktop Apllication\Create Loginform again\Create Loginform again\obj\Debug\net8.0-windows\ref\Create Loginform again.dll
+C:\Users\japa404\Desktop\Desktop Apllication\Create Loginform again\Create Loginform again\obj\Debug\net8.0-windows\Create_Loginform_again.Login_details.resources

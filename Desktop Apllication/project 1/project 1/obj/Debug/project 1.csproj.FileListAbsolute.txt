@@ -1,0 +1,7 @@
+C:\Users\japa404\Desktop\Desktop Apllication\project 1\project 1\bin\Debug\project 1.exe.config
+C:\Users\japa404\Desktop\Desktop Apllication\project 1\project 1\bin\Debug\project 1.exe
+C:\Users\japa404\Desktop\Desktop Apllication\project 1\project 1\bin\Debug\project 1.pdb
+C:\Users\japa404\Desktop\Desktop Apllication\project 1\project 1\obj\Debug\project 1.csproj.AssemblyReference.cache
+C:\Users\japa404\Desktop\Desktop Apllication\project 1\project 1\obj\Debug\project 1.csproj.CoreCompileInputs.cache
+C:\Users\japa404\Desktop\Desktop Apllication\project 1\project 1\obj\Debug\project 1.exe
+C:\Users\japa404\Desktop\Desktop Apllication\project 1\project 1\obj\Debug\project 1.pdb

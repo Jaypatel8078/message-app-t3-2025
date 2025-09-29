@@ -1,0 +1,16 @@
+C:\Users\japa404\Desktop\Desktop Apllication\loginform\loginform\bin\Debug\net8.0-windows\loginform.exe
+C:\Users\japa404\Desktop\Desktop Apllication\loginform\loginform\bin\Debug\net8.0-windows\loginform.deps.json
+C:\Users\japa404\Desktop\Desktop Apllication\loginform\loginform\bin\Debug\net8.0-windows\loginform.runtimeconfig.json
+C:\Users\japa404\Desktop\Desktop Apllication\loginform\loginform\bin\Debug\net8.0-windows\loginform.dll
+C:\Users\japa404\Desktop\Desktop Apllication\loginform\loginform\bin\Debug\net8.0-windows\loginform.pdb
+C:\Users\japa404\Desktop\Desktop Apllication\loginform\loginform\obj\Debug\net8.0-windows\loginform.Form1.resources
+C:\Users\japa404\Desktop\Desktop Apllication\loginform\loginform\obj\Debug\net8.0-windows\loginform.csproj.GenerateResource.cache
+C:\Users\japa404\Desktop\Desktop Apllication\loginform\loginform\obj\Debug\net8.0-windows\loginform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\japa404\Desktop\Desktop Apllication\loginform\loginform\obj\Debug\net8.0-windows\loginform.AssemblyInfoInputs.cache
+C:\Users\japa404\Desktop\Desktop Apllication\loginform\loginform\obj\Debug\net8.0-windows\loginform.AssemblyInfo.cs
+C:\Users\japa404\Desktop\Desktop Apllication\loginform\loginform\obj\Debug\net8.0-windows\loginform.csproj.CoreCompileInputs.cache
+C:\Users\japa404\Desktop\Desktop Apllication\loginform\loginform\obj\Debug\net8.0-windows\loginform.dll
+C:\Users\japa404\Desktop\Desktop Apllication\loginform\loginform\obj\Debug\net8.0-windows\refint\loginform.dll
+C:\Users\japa404\Desktop\Desktop Apllication\loginform\loginform\obj\Debug\net8.0-windows\loginform.pdb
+C:\Users\japa404\Desktop\Desktop Apllication\loginform\loginform\obj\Debug\net8.0-windows\loginform.genruntimeconfig.cache
+C:\Users\japa404\Desktop\Desktop Apllication\loginform\loginform\obj\Debug\net8.0-windows\ref\loginform.dll

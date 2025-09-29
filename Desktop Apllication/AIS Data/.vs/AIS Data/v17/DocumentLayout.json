@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\japa404\\Desktop\\Desktop Apllication\\AIS Data\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD90AE8-8CE2-4425-83A2-D3B24F50018A}|AIS Data\\AIS Data.csproj|c:\\users\\japa404\\desktop\\desktop apllication\\ais data\\ais data\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD90AE8-8CE2-4425-83A2-D3B24F50018A}|AIS Data\\AIS Data.csproj|solutionrelative:ais data\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD90AE8-8CE2-4425-83A2-D3B24F50018A}|AIS Data\\AIS Data.csproj|c:\\users\\japa404\\desktop\\desktop apllication\\ais data\\ais data\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD90AE8-8CE2-4425-83A2-D3B24F50018A}|AIS Data\\AIS Data.csproj|solutionrelative:ais data\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD90AE8-8CE2-4425-83A2-D3B24F50018A}|AIS Data\\AIS Data.csproj|C:\\Users\\japa404\\Desktop\\Desktop Apllication\\AIS Data\\ais data\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6CD90AE8-8CE2-4425-83A2-D3B24F50018A}|AIS Data\\AIS Data.csproj|solutionrelative:ais data\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD90AE8-8CE2-4425-83A2-D3B24F50018A}|AIS Data\\AIS Data.csproj|C:\\Users\\japa404\\Desktop\\Desktop Apllication\\AIS Data\\ais data\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6CD90AE8-8CE2-4425-83A2-D3B24F50018A}|AIS Data\\AIS Data.csproj|solutionrelative:ais data\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\japa404\\Desktop\\Desktop Apllication\\AIS Data\\AIS Data\\Form2.cs",
+              "RelativeDocumentMoniker": "AIS Data\\Form2.cs",
+              "ToolTip": "C:\\Users\\japa404\\Desktop\\Desktop Apllication\\AIS Data\\AIS Data\\Form2.cs",
+              "RelativeToolTip": "AIS Data\\Form2.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAuwC0AAACcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T02:54:17.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\japa404\\Desktop\\Desktop Apllication\\AIS Data\\AIS Data\\Form1.cs",
+              "RelativeDocumentMoniker": "AIS Data\\Form1.cs",
+              "ToolTip": "C:\\Users\\japa404\\Desktop\\Desktop Apllication\\AIS Data\\AIS Data\\Form1.cs",
+              "RelativeToolTip": "AIS Data\\Form1.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T02:41:25.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\japa404\\Desktop\\Desktop Apllication\\AIS Data\\AIS Data\\Form2.cs",
+              "RelativeDocumentMoniker": "AIS Data\\Form2.cs",
+              "ToolTip": "C:\\Users\\japa404\\Desktop\\Desktop Apllication\\AIS Data\\AIS Data\\Form2.cs [Design]",
+              "RelativeToolTip": "AIS Data\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T02:40:57.007Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\japa404\\Desktop\\Desktop Apllication\\AIS Data\\AIS Data\\Form1.cs",
+              "RelativeDocumentMoniker": "AIS Data\\Form1.cs",
+              "ToolTip": "C:\\Users\\japa404\\Desktop\\Desktop Apllication\\AIS Data\\AIS Data\\Form1.cs [Design]",
+              "RelativeToolTip": "AIS Data\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T02:37:28.808Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

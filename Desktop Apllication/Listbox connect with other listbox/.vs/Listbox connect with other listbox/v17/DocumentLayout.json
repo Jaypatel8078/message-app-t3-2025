@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\japa404\\Desktop\\Desktop Apllication\\Listbox connect with other listbox\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15974490-72B9-4694-92DC-26001EB66CE0}|Listbox connect with other listbox\\Listbox connect with other listbox.csproj|c:\\users\\japa404\\desktop\\desktop apllication\\listbox connect with other listbox\\listbox connect with other listbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15974490-72B9-4694-92DC-26001EB66CE0}|Listbox connect with other listbox\\Listbox connect with other listbox.csproj|solutionrelative:listbox connect with other listbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15974490-72B9-4694-92DC-26001EB66CE0}|Listbox connect with other listbox\\Listbox connect with other listbox.csproj|C:\\Users\\japa404\\Desktop\\Desktop Apllication\\Listbox connect with other listbox\\listbox connect with other listbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15974490-72B9-4694-92DC-26001EB66CE0}|Listbox connect with other listbox\\Listbox connect with other listbox.csproj|solutionrelative:listbox connect with other listbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\japa404\\Desktop\\Desktop Apllication\\Listbox connect with other listbox\\Listbox connect with other listbox\\Form1.cs",
+              "RelativeDocumentMoniker": "Listbox connect with other listbox\\Form1.cs",
+              "ToolTip": "C:\\Users\\japa404\\Desktop\\Desktop Apllication\\Listbox connect with other listbox\\Listbox connect with other listbox\\Form1.cs",
+              "RelativeToolTip": "Listbox connect with other listbox\\Form1.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwB4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T02:12:00.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\japa404\\Desktop\\Desktop Apllication\\Listbox connect with other listbox\\Listbox connect with other listbox\\Form1.cs",
+              "RelativeDocumentMoniker": "Listbox connect with other listbox\\Form1.cs",
+              "ToolTip": "C:\\Users\\japa404\\Desktop\\Desktop Apllication\\Listbox connect with other listbox\\Listbox connect with other listbox\\Form1.cs [Design]",
+              "RelativeToolTip": "Listbox connect with other listbox\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T02:11:04.094Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
